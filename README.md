@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Mugdha Bramhankar 👋
 
-<!--
-**mugdha25mib10002-bit/mugdha25mib10002-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech Student in Bioinformatics and AI  
+🏫 VIT Bhopal University  
+    1st Year
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
+I am interested in combining biology, data science, and artificial intelligence to solve real-world problems.  
+Currently, I am building my skills in programming and data analysis while exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Learning
+- Programming fundamentals  
+- Data analysis  
+- Basics of AI & Bioinformatics  
+
+---
+
+## 🎯 Goal
+To develop strong technical skills and work on meaningful projects in bioinformatics and artificial intelligence.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/mugdha-bramhankar-66b4843b9
+
+---
